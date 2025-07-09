@@ -11,4 +11,4 @@ My research focuses on the control and simulation of spiral-shaped soft continuu
 
 I'm especially interested in learning-based methods for robot control.
 
-🚧 Projects in progress below — always up for feedback, ideas, or collaboration!
+🚧 Projects in progress below. Always up for feedback, ideas, or collaboration!
