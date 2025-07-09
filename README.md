@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Jack
 
-<!--
-**Jack-Klusmann/Jack-Klusmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Robotics, Cognition, and Intelligence at TUM, currently conducting my master's thesis at the Soft Robotics Lab at NUS.
 
-Here are some ideas to get you started:
+My research focuses on the control and simulation of spiral-shaped soft continuum robots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Areas I’m digging into:
+- Soft robot kinematics and dynamics (MATLAB, Python)
+- Soft robot simulation (MuJoCo, Python)
+- Intuitive user interaction for soft robots with high dexterity (Unity)
+
+I'm especially interested in learning-based methods for robot control.
+
+🚧 Projects in progress below — always up for feedback, ideas, or collaboration!
