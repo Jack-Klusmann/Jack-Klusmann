@@ -10,6 +10,6 @@
 - Integration of rigid and soft manipulators into hybrid robotic systems (Unity, MuJoCo)
 - Human-Robot Interaction using AR/VR (Unity, MuJoCo)
 
-🚀 Explore my recent projects on [jack-klusmann.github.io](https://jack-klusmann.github.io).
+🚀 Check out my recent projects on [jack-klusmann.github.io](https://jack-klusmann.github.io).
 
 🙂 Feel free to reach out if you share similar interests!
