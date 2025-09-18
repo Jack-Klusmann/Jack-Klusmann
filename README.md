@@ -12,4 +12,4 @@
 
 🚀 Explore my recent projects on [jack-klusmann.github.io](https://jack-klusmann.github.io).
 
-🙂 Feel free to connect if you share similar interests!
+🙂 Feel free to reach out if you share similar interests!
