@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Jack
 
-👨‍🎓 I'm a Master's student in Robotics, Cognition, and Intelligence at TUM, currently conducting my thesis as a visiting researcher at the Soft Robotics Lab at NUS.
+👨‍💻 I’m a Robotics Researcher and Engineer. My ambition is to leverage machine learning to create meaningful human–robot interaction and bring robots into everyday life, both as assistive partners and intuitive companions.
 
-🤖 My current research focuses on data-driven control and simulation of spiral-shaped soft continuum robots.
+🤖 My current work explores data-driven control and high-fidelity simulation of spiral-shaped soft continuum robots.
 
-👨‍🔬 Areas I’m digging into:
-- Soft robot kinematics and dynamics (MATLAB, Python)
-- Soft robot simulation, real-to-sim, and sim-to-real transfer (MuJoCo, Python)
-- Integration of rigid and soft manipulators into hybrid robotic systems (Unity, MuJoCo)
-- Human-Robot Interaction using AR/VR (Unity, MuJoCo)
+🔍 What I’m currently working on:
+- Investigating geometry-informed approaches for soft robot kinematics and dynamics
+- Building soft-robot simulation pipelines, including real-to-sim and sim-to-real transfer
+- Integrating soft robots into rigid manipulators
+- Realizing human–robot interaction for hybrid rigid–soft robots using mixed reality
 
-🙂 Feel free to reach out if you share similar interests!
+🙂 Feel free to explore my projects!
